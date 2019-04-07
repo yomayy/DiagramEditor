@@ -1,0 +1,9 @@
+D:\src\DiagramEditor\DiagramEditor\bin\Debug\DiagramEditor.exe
+D:\src\DiagramEditor\DiagramEditor\bin\Debug\DiagramEditor.pdb
+D:\src\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.csprojAssemblyReference.cache
+D:\src\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.Form1.resources
+D:\src\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.Properties.Resources.resources
+D:\src\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.csproj.GenerateResource.cache
+D:\src\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.csproj.CoreCompileInputs.cache
+D:\src\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.exe
+D:\src\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.pdb
